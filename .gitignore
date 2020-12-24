@@ -1,0 +1,6 @@
+*.gexf
+sink/
+lib/
+share/
+bin/
+pyvenv.cfg
